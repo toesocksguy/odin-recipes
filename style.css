@@ -1,0 +1,32 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    background-color: #2BAE66FF;
+    color: #FCF6F5FF;
+    font-weight: bolder;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.description {
+    background-color: #FAD0C9FF;
+}
+
+.link {
+    color: #FB2576;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    font-style: italic;
+}
